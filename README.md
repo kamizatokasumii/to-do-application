@@ -5,7 +5,7 @@ Echo/Go + Reactで始めるモダンWebアプリケーション開発 (Udemy)
 Go(Gin), React
 Test Suite (Unit test) / GitHub Actions
 シナリオテスト（E2E）
-デプロイ（Playwright)
+デプロイ(Playwright)
 CI/CD パイプライン
 
 # プロジェクトの概要
