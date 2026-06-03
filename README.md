@@ -7,6 +7,7 @@ Test Suite (Unit test) / GitHub Actions
 シナリオテスト（E2E）
 デプロイ(Playwright)
 CI/CD パイプライン
+claude frare
 
 # プロジェクトの概要
 Go言語のWeb フレームワークである Echoを使用した REST APIの実装方法について学習するためのリポジトリ。
