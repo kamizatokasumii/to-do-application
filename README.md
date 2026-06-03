@@ -8,6 +8,8 @@ Test Suite (Unit test) / GitHub Actions
 デプロイ(Playwright)
 CI/CD パイプライン
 claude frare
+API設計
+DB設計
 
 # プロジェクトの概要
 Go言語のWeb フレームワークである Echoを使用した REST APIの実装方法について学習するためのリポジトリ。
