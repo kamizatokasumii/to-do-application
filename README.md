@@ -15,6 +15,7 @@ Go言語のWeb フレームワークである Echoを使用した REST APIの実
 フロントエンド(React)との連携を行いDeployまで行います。
 
 # 必要な環境変数やコマンド一覧
+Node.js(v24.16.0)をローカルにダウンロード（https://nodejs.org/ja/download）
 
 # ディレクトリ構成
 
